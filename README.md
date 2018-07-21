@@ -1,2 +1,2 @@
 # MyTtest
-Test purpose
+This project is for test purpose
